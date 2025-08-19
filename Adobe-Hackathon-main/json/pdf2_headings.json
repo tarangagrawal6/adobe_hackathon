@@ -1,0 +1,176 @@
+{
+  "filename": "pdf2.pdf",
+  "ordered_content": [
+    {
+      "id": 1,
+      "text": "Abstract",
+      "page": 1,
+      "bbox": [
+        283.75799560546875,
+        336.60821533203125,
+        328.2432861328125,
+        348.56341552734375
+      ],
+      "y_position": 336.60821533203125,
+      "x_position": 283.75799560546875,
+      "confidence": 1.0,
+      "content": "We propose a simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with attention and convolutions."
+    },
+    {
+      "id": 2,
+      "text": "Introduction",
+      "page": 1,
+      "bbox": [
+        125.93280029296875,
+        520.6621704101562,
+        190.8136749267578,
+        532.6173706054688
+      ],
+      "y_position": 520.6621704101562,
+      "x_position": 125.93280029296875,
+      "confidence": 1.0,
+      "content": "Recurrent neural networks, long short-term memory and gated recurrent neural networks have been firmly established as state of the art approaches in sequence modeling and transduction problems such as language modeling and machine translation."
+    },
+    {
+      "id": 3,
+      "text": "Background",
+      "page": 2,
+      "bbox": [
+        125.93280029296875,
+        275.68212890625,
+        188.82911682128906,
+        287.6373291015625
+      ],
+      "y_position": 275.68212890625,
+      "x_position": 125.93280029296875,
+      "confidence": 1.0,
+      "content": "The Transformer is the first transduction model using self-attention to compute representations of its input and output without using sequence- aligned RNNs."
+    },
+    {
+      "id": 4,
+      "text": "Encoder:",
+      "page": 2,
+      "bbox": [
+        108.0,
+        701.4445190429688,
+        147.29251098632812,
+        711.4071044921875
+      ],
+      "y_position": 701.4445190429688,
+      "x_position": 108.0,
+      "confidence": 0.95,
+      "content": "Sub-layers, we use a residual connection [ 10 ] around each of the two sub-layers, followed by layer normalization [ 1 ] ."
+    },
+    {
+      "id": 5,
+      "text": "Decoder:",
+      "page": 3,
+      "bbox": [
+        108.00001525878906,
+        508.9425048828125,
+        146.7246551513672,
+        518.9050903320312
+      ],
+      "y_position": 508.9425048828125,
+      "x_position": 108.00001525878906,
+      "confidence": 0.9,
+      "content": "Attention is the most commonly used attention function, except for additive attention [ 2 ], and dot-product (multi-plicative attention) attention."
+    },
+    {
+      "id": 6,
+      "text": "Why Self-Attention",
+      "page": 6,
+      "bbox": [
+        125.93280029296875,
+        452.18115234375,
+        225.04141235351562,
+        464.1363525390625
+      ],
+      "y_position": 452.18115234375,
+      "x_position": 125.93280029296875,
+      "confidence": 0.9,
+      "content": "Self-attention layers are faster than recurrent layers when the sequence length n is smaller than the representation dimensionality d ."
+    },
+    {
+      "id": 7,
+      "text": "Training",
+      "page": 7,
+      "bbox": [
+        125.93280029296875,
+        254.941162109375,
+        170.22682189941406,
+        266.8963623046875
+      ],
+      "y_position": 254.941162109375,
+      "x_position": 125.93280029296875,
+      "confidence": 0.9,
+      "content": "We trained the base models for a total of 100,000 steps or 12 hours. We trained the base models for a total of 100,000 steps or 12 hours. We trained the base models for a total of 100,000 steps or 12 hours. We used dropout [ 27 ] to the output of each sub-layer, before training."
+    },
+    {
+      "id": 8,
+      "text": "EN-FR EN-DE",
+      "page": 8,
+      "bbox": [
+        330.5529479980469,
+        113.49745178222656,
+        417.34710693359375,
+        123.46005249023438
+      ],
+      "y_position": 113.49745178222656,
+      "x_position": 330.5529479980469,
+      "confidence": 0.7,
+      "content": "A new state-of-the-art transformer model has a BLEU score of 41. 0 , outperforming all previous state-of-the-art models."
+    },
+    {
+      "id": 9,
+      "text": "Conclusion",
+      "page": 9,
+      "bbox": [
+        125.93280029296875,
+        500.22515869140625,
+        183.06671142578125,
+        512.1803588867188
+      ],
+      "y_position": 500.22515869140625,
+      "x_position": 125.93280029296875,
+      "confidence": 1.0,
+      "content": "The Transformer is a recurrent, convolutional, recurrent, and convolutional model for encoder-decoder architectures."
+    },
+    {
+      "id": 10,
+      "text": "Acknowledgements",
+      "page": 9,
+      "bbox": [
+        107.99999237060547,
+        701.4445190429688,
+        190.36080932617188,
+        711.4071044921875
+      ],
+      "y_position": 701.4445190429688,
+      "x_position": 107.99999237060547,
+      "confidence": 0.95,
+      "content": "We are grateful to Nal Kalchbrenner and Stephan Gouws for their fruitful comments, corrections and inspiration."
+    },
+    {
+      "id": 11,
+      "text": "References",
+      "page": 10,
+      "bbox": [
+        108.0,
+        72.78716278076172,
+        163.54383850097656,
+        84.74236297607422
+      ],
+      "y_position": 72.78716278076172,
+      "x_position": 108.0,
+      "confidence": 1.0,
+      "content": "Learning recurrent neural networks in recurrent nets: the difficulty of learning l..."
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "headings": 11,
+    "original_headings": 30,
+    "filtered_out": 19
+  }
+}

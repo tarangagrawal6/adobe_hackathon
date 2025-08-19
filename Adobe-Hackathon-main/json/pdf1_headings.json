@@ -1,0 +1,161 @@
+{
+  "filename": "pdf1.pdf",
+  "ordered_content": [
+    {
+      "id": 1,
+      "text": "Abstract",
+      "page": 1,
+      "bbox": [
+        85.10399627685547,
+        258.362548828125,
+        129.98233032226562,
+        269.8523254394531
+      ],
+      "y_position": 258.362548828125,
+      "x_position": 85.10399627685547,
+      "confidence": 1.0,
+      "content": "Using mobile devices to develop learning experiences that meet their needs and goals as foreign language learners."
+    },
+    {
+      "id": 2,
+      "text": "1. Introduction",
+      "page": 1,
+      "bbox": [
+        85.10399627685547,
+        441.0225830078125,
+        165.8546142578125,
+        452.5123596191406
+      ],
+      "y_position": 441.0225830078125,
+      "x_position": 85.10399627685547,
+      "confidence": 1.0,
+      "content": "In the context of language learning, it is important to be aware of the importance of technology and learning in the context of learning."
+    },
+    {
+      "id": 3,
+      "text": "2. Literature review",
+      "page": 2,
+      "bbox": [
+        85.10399627685547,
+        110.85260772705078,
+        190.81546020507812,
+        122.34236145019531
+      ],
+      "y_position": 110.85260772705078,
+      "x_position": 85.10399627685547,
+      "confidence": 1.0,
+      "content": "The concept of autonomy in foreign language learning and teaching has been the focus of attention for many researchers and practitioners for more than three decades."
+    },
+    {
+      "id": 4,
+      "text": "3. Method",
+      "page": 4,
+      "bbox": [
+        85.10399627685547,
+        70.89258575439453,
+        138.0308380126953,
+        82.38233947753906
+      ],
+      "y_position": 70.89258575439453,
+      "x_position": 85.10399627685547,
+      "confidence": 1.0,
+      "content": "Using mobile technology to develop learning experiences that meet their aims and meet their needs as language learners, Reinders & White, 2016 ."
+    },
+    {
+      "id": 5,
+      "text": "4. Findings",
+      "page": 5,
+      "bbox": [
+        85.10399627685547,
+        314.402587890625,
+        143.53871154785156,
+        325.8923645019531
+      ],
+      "y_position": 314.402587890625,
+      "x_position": 85.10399627685547,
+      "confidence": 1.0,
+      "content": "Using mobile devices for English language study is the most common method for learning English in a university setting."
+    },
+    {
+      "id": 6,
+      "text": "language Level",
+      "page": 5,
+      "bbox": [
+        85.10399627685547,
+        558.9022216796875,
+        410.51605224609375,
+        570.7049560546875
+      ],
+      "y_position": 558.9022216796875,
+      "x_position": 85.10399627685547,
+      "confidence": 0.6,
+      "content": "MobDs allow students to have quick access to the internet and organize their own study materials."
+    },
+    {
+      "id": 7,
+      "text": "Minute",
+      "page": 6,
+      "bbox": [
+        478.409423828125,
+        756.91259765625,
+        513.6466064453125,
+        768.40234375
+      ],
+      "y_position": 756.91259765625,
+      "x_position": 478.409423828125,
+      "confidence": 0.65,
+      "content": "The use of MobDs in the classroom was limited to checking unfamiliar vocabulary and/or finding words they needed during various languages."
+    },
+    {
+      "id": 8,
+      "text": "5. Discussion and conclusions",
+      "page": 9,
+      "bbox": [
+        85.10399627685547,
+        230.5225830078125,
+        243.7801971435547,
+        242.01234436035156
+      ],
+      "y_position": 230.5225830078125,
+      "x_position": 85.10399627685547,
+      "confidence": 1.0,
+      "content": "Using mobile devices for English study is a key factor in the development of foreign language learning and the development of the target language."
+    },
+    {
+      "id": 9,
+      "text": "References",
+      "page": 10,
+      "bbox": [
+        85.10399627685547,
+        208.41259765625,
+        144.3350372314453,
+        219.90235900878906
+      ],
+      "y_position": 208.41259765625,
+      "x_position": 85.10399627685547,
+      "confidence": 1.0,
+      "content": "Using mobile devices for learning English as a foreign language. The European Language Portfolio: Two L2 English examples. ..."
+    },
+    {
+      "id": 10,
+      "text": "Nezarat, A.",
+      "page": 11,
+      "bbox": [
+        220.60162353515625,
+        155.97259521484375,
+        295.7590637207031,
+        167.4623565673828
+      ],
+      "y_position": 155.97259521484375,
+      "x_position": 220.60162353515625,
+      "confidence": 0.6,
+      "content": "Using a mobile phone to learn English in multilingual contexts. The International Journal of Distributed and Parallel Systems, 20 (3), 309."
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "headings": 10,
+    "original_headings": 25,
+    "filtered_out": 15
+  }
+}

@@ -1,0 +1,13 @@
+**/lexicon.db
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.cache
+/models/*.db
+/client/node_modules
+/client/dist
+.git
+.gitignore
+*.md
